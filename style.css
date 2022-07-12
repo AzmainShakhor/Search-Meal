@@ -1,0 +1,13 @@
+.main-detail{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(209, 189, 181);
+    padding: 2.5rem;
+    width: 90%;
+    height: 90%;
+    overflow-y: scroll;
+    display: none;
+    
+}
